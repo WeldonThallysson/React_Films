@@ -1,0 +1,79 @@
+.conteiner{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 1%;
+    flex-direction: column;
+}
+.titulo__Principal {
+    font-size: 25px;
+    font-weight:bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    text-decoration: none;
+    padding: 10px;
+
+}
+.Imagem {
+    width: 800px;
+    max-width: 100%;
+    max-height: 350px;
+    height: 350px;
+    object-fit: cover;
+ 
+    border-radius: 7px;
+    
+}
+
+.Titulo__Sinopse{
+    max-width: 800px;
+
+    flex-direction: column;
+    padding: 5px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(19, 18, 18);
+
+    
+
+}
+.Descricao__Filme {
+    display: flex;
+    max-width: 800px;
+    max-height: 110px;
+    margin-top: 1px;
+    flex-direction: column;
+    width: 100%;
+    padding: 0 8px;
+}
+.avaliacao {
+    text-align: left;
+    padding:  10px;
+}
+
+.area__btn button {
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-left: 0;
+    font-size: 20px;
+    border: 0;
+    outline: none;
+    padding: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.area__btn button:hover {
+    background-color: brown;
+    transition: all 0.5s;
+    color: aliceblue;
+}
+.area__btn a:hover {
+    background-color: brown;
+    transition: all 0.5s;
+    color: aliceblue;
+}
+.area__btn a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
