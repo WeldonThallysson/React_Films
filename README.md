@@ -17,6 +17,11 @@ You may also see any lint errors in the console.
 
 ## Importante Acesse o link para ver o Site
  
-
-
 ## https://prime-flix-ts.netlify.app/
+
+<hr>
+<div>
+<img src="https://user-images.githubusercontent.com/65944963/212492275-9fa84756-f8f0-4925-9368-23994fd3121a.png"/>
+<img src="https://user-images.githubusercontent.com/65944963/212492328-9d4a56d6-06be-43f1-8ec1-9d8a500856d4.png"/>
+<img src="https://user-images.githubusercontent.com/65944963/212492367-db243e0f-78df-423b-8c46-95dc384943b5.png"/>
+</div>
