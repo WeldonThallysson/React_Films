@@ -15,8 +15,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-## Importânte 
+## Importante Acesse o link para ver o Site
  
-Acesse o link para ver o Site
+
 
 ## https://prime-flix-ts.netlify.app/
